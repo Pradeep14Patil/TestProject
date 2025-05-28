@@ -34,4 +34,7 @@ public class CarsListController {
 			return carsListForUser;
 		}
 	}
+	public void test() {
+		
+	}
 }
